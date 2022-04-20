@@ -8,8 +8,8 @@ let str = `
     /gpi_management_fees
       brett.md
       qryprint.md
-      /some-ruthie-stuff
-        hi_RUTHIE.txt
+      /some-stuff-stuff
+        hi_stuff.txt
       ^
     ^
     /errors
